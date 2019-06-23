@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //master分支
         //master push
+        //新建远程test分支
     }
 }
